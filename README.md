@@ -26,3 +26,4 @@ _these are short and long term goals that I will (hopefully) update_
 ### Socials 📱
 
 ![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FRed_Hipp0%2F) ![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsage-hourihan%2F)
+![CodePen](https://img.shields.io/twitter/url?label=CodePen&logo=CodePen&style=social&url=https%3A%2F%2Fcodepen.io%2Fsamiho97%2F)
