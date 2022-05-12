@@ -2,7 +2,7 @@
 
 I am a Software Engineer - working with EDI and developing B2B solutions.
 
-I love building CLI tools in Python as well as designing and develop landing pages with HTML/CSS & Vanilla JS. I am interested in pentesting and CTFs and actively learning in this field.
+I love building CLI tools in Python as well as designing and develop landing pages with HTML/CSS & Vanilla JS,
 
 ### Skills 👨🏼‍💻
 
@@ -13,12 +13,11 @@ Python is my language of choice for making scripts and tools but I can use Bash 
 
 ### I am currently learning 💡
 
-Currently I am learning about pentesting and CTFs. I am utalizing websites like TryHackMe, Vulnhub, and HackTheBox. CTFs and Bug Bountys are my recent obsession.
+Currently I am learning NodeJs.
 
 ### Goals ☘️
 
 _these are short and long term goals that I will (hopefully) update_
 
-- Complete a CTF challenge without reading a walkthrough
-- Submit a bug bounty and have it triaged and fixed
-- Program more in Go
+- Program more in Javascript
+- Build and deploy to production a website using NodeJs
