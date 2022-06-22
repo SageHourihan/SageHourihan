@@ -10,7 +10,7 @@ Addicted to automating business processes with VBA and Python scripts.
 
 ### I am currently learning 💡
 
-Currently I am learning NodeJs.
+Currently I am learning NodeJs, Express, MongodDB
 
 ### Goals ☘️
 
