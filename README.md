@@ -1,7 +1,6 @@
 ## Hi there!👋🏻
 
-I am a Software Engineer - working with EDI and developing B2B solutions by day. Wanna be fullstack engineer by night. 
-Addicted to automating business processes with VBA and Python scripts.
+I am a Software Engineer - working with EDI and developing B2B solutions by day. Addicted to automating business processes with VBA and Python scripts.
 
 ### Skills 👨🏼‍💻
 
