@@ -1,19 +1,21 @@
-## Hi there!👋🏻
+<h1 align="center">Hi there 👋, I'm'm Sage</h1>
+<h3 align="center">A software engineer from Michigan.</h3>
 
-I am a Software Engineer - working with EDI and developing B2B solutions by day. Addicted to automating business processes with VBA and Python scripts.
+- 🔭 I’m currently working on [lsa-db](https://github.com/SageHourihan/lsa-db)
 
-### Skills 👨🏼‍💻
+- 🌱 I’m currently learning **Node.JS**
 
-![Linux](https://img.shields.io/badge/OS-Linux-F5C363?logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/OS-macOS-F5C363?logo=apple&logoColor=white) ![Bash](https://img.shields.io/badge/Code-Bash-F5C363?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Code-Python-F5C363?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F5C363?logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/Code-Sass-F5C363?logo=sass&logoColor=white) ![Git](https://img.shields.io/badge/Tools-Git-F5C363?logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Code-Node.js-F5C363?logo=node.js&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-### I am currently learning 💡
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagehourihan&show_icons=true&locale=en&layout=compact" alt="sagehourihan" /></p>
 
-Currently I am learning NodeJs, Express, MongodDB
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagehourihan&show_icons=true&locale=en" alt="sagehourihan" /></p>
 
-### Goals ☘️
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagehourihan&" alt="sagehourihan" /></p>
 
-_these are short and long term goals that I will (hopefully) update_
-
-- Program more in Javascript
-- Build and deploy to production a website using NodeJs
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/samiho97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samiho97" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sage-hourihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sage-hourihan" height="30" width="40" /></a>
+</p>
