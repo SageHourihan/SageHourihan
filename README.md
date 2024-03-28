@@ -6,7 +6,7 @@
 - Currently learning **Go**
 
 - My side project **Currently working on local developer tools for EDI.**
-
+    - [JEDI](https://github.com/SageHourihan/JEDI) - a command line tool for dealing with EDI
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/samiho97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samiho97" height="30" width="40" /></a>
