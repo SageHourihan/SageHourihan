@@ -3,7 +3,7 @@
 
 - Professionally I work on **API/EDI integration to ERP/WMS systems, internal tooling, and process automation.**
 
-- Currently working on **a self hosted URL shortner.**
+- Currently working on **a visual data mapper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
