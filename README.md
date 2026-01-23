@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer/EDI specialist from Michigan.</h3>
 
 - Professionally, I work on **API/EDI integration to ERP/WMS systems, internal tooling, and process automation.**
-- Currently working on **[Clermont](https://github.com/SageHourihan/clermont)**, an open-source maritime tracking system.
+- Currently working on home automation using **Home Assistant**[https://www.home-assistant.io/].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
